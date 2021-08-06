@@ -1,5 +1,6 @@
 body {
   margin-top: 10px;
+  margin-bottom: 10px;
   font-family: arial;
   background-color: #0B0C10;
   color: #C5C6C7
@@ -14,8 +15,7 @@ body {
 }
 
 .sidebar {
-  width: 400px;
-  float:left;
+  float: left;
   margin-right: 10px;
   margin-bottom: 10px;
 }
@@ -45,10 +45,19 @@ body {
 
 .card {
   background-color: #1F2833;
+  position: fixed;
+  width: 400px;
 }
 
 blockquote {
   float:right;
+  vertical-align: middle;
+  color: #C5C6C7;
+  padding-top: 80px;
+}
+
+.blockquote-footer {
+  color: #C5C6C7;
 }
 
 blockquote p {
@@ -57,16 +66,18 @@ blockquote p {
   font-style: italic;
 }
 
-footer {
-  color: #C5C6C7;
-}
-
 .card-img {
   margin: 5px;
   width: auto;
 }
 
+.lotr {
+  margin-top: 3em;
+}
 
+.embed-responsive {
+  float:left;
+}
 
 li a {
   font-size: 18px;
