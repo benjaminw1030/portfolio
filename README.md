@@ -17,11 +17,11 @@ This portfolio is intended to provide organized links to all my projects and sho
 
 ## Setup/Installation Requirements
 
-1. [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) this repository from Github to your local machine.
+1. [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) this repository from GitHub to your local machine.
 2. Open the new directory.
 3. Open index.html in a browser.
 
-It is also possible to simply visit <https://benjaminw1030.github.io/portfolio/>.
+It is also possible to simply visit the site on [GitHub Pages]<https://benjaminw1030.github.io/portfolio/>.
 
 ## Known Bugs
 
