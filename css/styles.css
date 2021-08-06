@@ -16,10 +16,35 @@ body {
 .sidebar {
   width: 400px;
   float:left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.projects {
+  margin-bottom: 30px;
+  border-bottom: 2px solid #C5C6C7
+}
+
+.project {
+  margin-left: 50px;
+}
+
+.projects ul {
+  list-style-type: none;
+}
+
+.projects img {
+  margin-right: 5px;
+  float: left;
+  margin-top: 5px;
 }
 
 .card {
   background-color: #1F2833;
+}
+
+blockquote {
+  float:right;
 }
 
 blockquote p {
@@ -31,6 +56,10 @@ blockquote p {
 .card-img {
   margin: 5px;
   width: auto;
+}
+
+li a {
+  font-size: 18px;
 }
 
 a:link {
