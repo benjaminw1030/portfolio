@@ -14,10 +14,13 @@ body {
   color: #66FCF1;
 }
 
-.sidebar {
-  float: left;
-  margin-right: 10px;
-  margin-bottom: 10px;
+.sidebar-l {
+  margin: 10px;
+}
+
+.main {
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .projects {
@@ -45,8 +48,8 @@ body {
 
 .card {
   background-color: #1F2833;
-  position: fixed;
-  width: 400px;
+  width: 300px;
+  float: left;
 }
 
 blockquote {
