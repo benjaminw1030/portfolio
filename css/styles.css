@@ -40,7 +40,7 @@ body {
 }
 
 .concept {
-  color: rgb(169, 184, 99);
+  color: #bd7676;
 }
 
 .card {
@@ -57,10 +57,16 @@ blockquote p {
   font-style: italic;
 }
 
+footer {
+  color: #C5C6C7;
+}
+
 .card-img {
   margin: 5px;
   width: auto;
 }
+
+
 
 li a {
   font-size: 18px;
