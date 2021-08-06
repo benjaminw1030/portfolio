@@ -39,6 +39,10 @@ body {
   margin-top: 5px;
 }
 
+.concept {
+  color: rgb(169, 184, 99);
+}
+
 .card {
   background-color: #1F2833;
 }
