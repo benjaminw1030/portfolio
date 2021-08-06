@@ -53,6 +53,7 @@ body {
   background-color: #1F2833;
   width: 300px;
   float: left;
+  padding-top: 10px;
 }
 
 blockquote {
@@ -81,6 +82,10 @@ blockquote p {
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 10px;
+}
+
+.games li {
+  list-style-type: none;
 }
 
 li a {
