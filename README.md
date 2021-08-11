@@ -21,7 +21,7 @@ This portfolio is intended to provide organized links to all my projects and sho
 2. Open the new directory.
 3. Open index.html in a browser.
 
-It is also possible to simply visit the site on [GitHub Pages]<https://benjaminw1030.github.io/portfolio/>.
+It is also possible to simply visit the site on [GitHub Pages](https://benjaminw1030.github.io/portfolio/).
 
 ## Known Bugs
 
