@@ -92,7 +92,7 @@ blockquote p {
   list-style-type: none;
 }
 
-li a {
+.linkHead {
   font-size: 18px;
 }
 
